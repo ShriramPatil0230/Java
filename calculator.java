@@ -1,6 +1,6 @@
 import java.rmi.StubNotFoundException;
 import java.util.Scanner;
-
+//Creating Calculator
 public class calculator {
     public static void main(String[] args) {
         Scanner sr = new Scanner(System.in);
