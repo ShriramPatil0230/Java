@@ -5,7 +5,7 @@ public class percentage {
 
     {
         int p;
-        System.out.println(" Enter Your percentage:");
+        System.out.println(" Enter Your percentage:"); // check result
         p = new Scanner(System.in).nextInt();
         if (p < 35) {
             System.out.println("Fail");
