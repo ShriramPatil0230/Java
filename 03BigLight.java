@@ -21,7 +21,8 @@ public class BigLight {
                         int nume = (h2 - h1);
                         int deno = (s1 -s2);
 
-                        if(nume % deno == 0){
+                        if(nume % deno == 0)
+			{
                                 System.out.println("true");
                         }
                         else{
