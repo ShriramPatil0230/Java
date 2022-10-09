@@ -11,6 +11,6 @@ public class celsiusToFah {
         fahrenheit = fahrenheit * 9;
         fahrenheit = fahrenheit / 5;
         fahrenheit = fahrenheit + 32;
-        System.out.println(fahrenheit);
+        System.out.println(fahrenheit); // After Converting 
     }
 }
