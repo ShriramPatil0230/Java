@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-
+//Use recursion
 public class Main {
     public static int recur(int n) {
         // base case
