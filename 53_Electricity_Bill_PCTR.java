@@ -7,7 +7,7 @@ public class Main {
 
         // Condition to find the charges
         // bar in which the units consumed
-        // is fall
+        
         if (units <= 100) {
             return units * 10;
         } else if (units <= 200) {
