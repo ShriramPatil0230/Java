@@ -15,7 +15,7 @@ public class Main {
 
         int l = a.length();
         while (j < l && i < l) {
-            // keep incrementing j till when as soon as we find space or sentence is over
+            
             while (j < l && a.charAt(j) != ' ') {
                 j++;
             }
