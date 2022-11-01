@@ -2,6 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+//Quadrant check
 public class Main {
     public static void main(String[] args) throws java.lang.Exception {
         Scanner sr = new Scanner(System.in);
