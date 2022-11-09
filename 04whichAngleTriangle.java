@@ -10,7 +10,7 @@ public class Main {
         int third = sr.nextInt();
 
         int sumOfSquares = first * first + second * second + third * third;
-
+// Which angle triangle 
         if (2 * third * third < sumOfSquares) {
             System.out.println("1");
         } else if (2 * third * third == sumOfSquares) {
