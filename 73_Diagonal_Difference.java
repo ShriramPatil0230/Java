@@ -16,10 +16,10 @@ public class Main {
         }
         for (int i = 0; i < arr.length; i++) {
             for (int j = 0; j < arr.length; j++) {
-                if (i == j) {
+                if (i == j) {           //sum of left diagonal
                     diagonalLeftSum += arr[i][j];
                 }
-                if ((i + j) == (n - 1)) {
+                if ((i + j) == (n - 1)) {    //sum of right diagonal
                     diagonalRightSum += arr[i][j];
                 }
             }
