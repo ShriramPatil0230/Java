@@ -4,6 +4,7 @@ import java.io.*;
 
 public class Main {
     /*
+    print this pattern
      * A
      * BC
      * CDE
