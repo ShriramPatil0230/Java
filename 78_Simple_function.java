@@ -1,6 +1,7 @@
 import java.util.*;
 import java.lang.*;
 import java.io.*;
+//Simple Function Question 
 /*The user gives his name as the input you have to
  return string "name" is a Super Hero from the function. */
 
