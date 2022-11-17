@@ -9,7 +9,7 @@ public class Main {
         int currentAns = 0;
         ArrayList<Integer> A = new ArrayList<>();
 
-        for (int i = st; i <= mid; i++) // first part elements
+        for (int i = st; i <= mid; i++) 
         {
             A.add(arr[i]);
         }
