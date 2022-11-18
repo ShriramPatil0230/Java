@@ -1,3 +1,14 @@
+/*
+Given an array of n integers where n > 1,
+return an array output such that output[i] is equal to the sum of all the elements of nums except nums[i].
+All integers in array are greater than 0.
+Example 1
+Input
+4
+4 3 2 10
+Output
+15 16 17 9
+*/
 import java.util.Arrays;
 import java.util.Scanner;
 
