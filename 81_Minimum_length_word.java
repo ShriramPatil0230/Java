@@ -1,3 +1,15 @@
+/*You are given a string str. Your task is to return the word with minimum length in a given string.
+
+If there are multiple strings with same minimum length, return the one which occurs first.
+
+Input:
+What is your name
+
+Output:
+is
+
+*/
+
 import java.util.*;
 
 public class Main {
