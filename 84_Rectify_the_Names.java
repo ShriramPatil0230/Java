@@ -9,9 +9,9 @@
  * He decides to write a piece of code to capitalize only the first letter
  * of each word in the name. Can you help Ram in achieving his goal?
  * Input:
- * rAm AroRa
+   rAm AroRa
  * Output:
- * Ram Arora
+   Ram Arora
  */
 import java.io.*;
 import java.util.*;
