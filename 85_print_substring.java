@@ -11,7 +11,7 @@ class Solution {
         // length of substr is n.
         // your ans string has substr, n times
         // basically, your ans String has n * n characters
-        // Space complexity: O(n^2);
+        // Space complexity: O(n^2)
         return ans;
     }
 }
