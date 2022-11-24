@@ -1,3 +1,12 @@
+/*Given an array arr of size n. You are required to find Smallest greater elements for all elements in arr.
+If there is no such element for some element in arr then put its smallest greater element as -10000000.
+Input:
+4
+13 6 17 12
+Output:
+17 12 -10000000 13
+*/
+
 import java.util.*;
 import java.util.*;
 
