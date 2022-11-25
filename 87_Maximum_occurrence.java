@@ -1,3 +1,13 @@
+/*You are given an array arr of length n.
+Your task is to print the element which has maximum occurrences in the array.
+If two elements have the same occurrence then print the smaller element
+Input:
+8
+7 7 6 4 8 7 3 1
+Output:
+7
+*/
+
 import java.util.*;
 
 public class Main {
