@@ -1,3 +1,12 @@
+/*Given an array arr of size n, containing positive integers.
+You need to sort the elements of array using the Selection Sort algorithm.
+Input:
+5
+4 1 3 9 7
+Output:
+1 3 4 7 9
+*/
+
 import java.util.*;
 
 class Accio {
