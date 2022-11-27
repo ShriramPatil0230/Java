@@ -1,3 +1,14 @@
+/*
+Given a string, capitalize the first letter of each word in the string.
+You have to complete capitalizeFirstLetter function
+which has string str as input and returns string containing first letter capital for each word as output.
+Input:
+welcome to acciojob
+Output:
+Welcome To AccioJob
+*/
+
+
 import java.io.*;
 import java.util.*;
 
