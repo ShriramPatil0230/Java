@@ -1,3 +1,4 @@
+//Rigth Angle Triangle
 import java.util.*;
 import java.lang.*;
 import java.io.*;
