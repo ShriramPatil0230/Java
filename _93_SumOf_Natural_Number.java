@@ -1,5 +1,5 @@
 import java.util.*;
-
+//use Recursion
 class Solution {
     public long NumberSum(long N) {
         if (N <= 1)
