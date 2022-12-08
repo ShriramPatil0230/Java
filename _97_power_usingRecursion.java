@@ -1,5 +1,5 @@
 import java.util.*;
-
+//power  using recursion
 class Main {
     static long power(int x, int y) {
         if (y == 0)
