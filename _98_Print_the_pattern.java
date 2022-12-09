@@ -1,6 +1,11 @@
 import java.io.*;
 import java.util.*;
-
+/*
+Print pattern
+*
+**
+***
+*/
 class Main {
     public static void print(int n) {
         if (n == 0)
