@@ -10,7 +10,8 @@ Input:
 abc
 
 Output:
-abc ab ac a bc b c  */
+abc ab ac a bc b c
+*/
 
 import java.util.*;
 import java.util.Scanner;
